@@ -20,7 +20,6 @@
   length of the original file. Useful   
   to check the validity of the encryption before it is decrypted.
   
-  Cannot be used in the same time as [/d] ");
-      
-     [/?] Informations ");
+  Cannot be used in the same time as [/d] 
+  [/?] - For getting informations
 *****************************************************************
