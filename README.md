@@ -1,5 +1,6 @@
 ***************       HIDE AND SEEK GUIDE       ***************
-            Simple encryption/decryption application
+           
+           Simple encryption/decryption application
             
   Write in Command prompt the following line :                
   HideAndSeek.cs fileInput /k:key [/o:fileOutput] [/d] [/v] [/?]
@@ -10,6 +11,7 @@
   /k:key - the key for encryption. Has to be a hexadecimal      
   [/o:fileOutput]- file for output. If not provided, another one
   will be generated. The following rule applies for the new files: 
+  
     File.txt encrypt -> File.txt.enc 
     File.txt.enc decrypt -> File.txt 
     File.enc decrypt -> File.enc.dec 
